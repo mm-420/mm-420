@@ -2,7 +2,7 @@
 ## :green_circle: Current Projects:
 | Project | Description |
 | -- | -- |
-|   |   |
+| :snake: pywordle | a wordle clone written in python |
 ## :red_square: Legacy Projects:
 | Project | Description |
 | -- | -- |
